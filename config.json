@@ -9,17 +9,17 @@
   },
   "text": {
     "more": "test graph",
-    "intro": "",
+    "intro": "test graph",
     "title": "test graph"
   },
   "legend": {
-    "edgeLabel": "edge",
-    "colorLabel": "color",
-    "nodeLabel": "node"
+    "edgeLabel": "Relationship",
+    "colorLabel": "Type",
+    "nodeLabel": "Entity/Individual/Address/AML"
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "type",
+    "groupSelectorAttribute": "interval",
     "hoverBehavior": "dim"
   },
   "informationPanel": {
