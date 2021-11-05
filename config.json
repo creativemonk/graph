@@ -8,9 +8,9 @@
     "text": "test"
   },
   "text": {
-    "more": "test graph",
-    "intro": "test graph",
-    "title": "test graph"
+    "more": "Network Graph",
+    "intro": "Network Graph",
+    "title": "Network Graph"
   },
   "legend": {
     "edgeLabel": "Relationship",
@@ -19,11 +19,11 @@
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "interval",
-    "hoverBehavior": "dim"
+    "groupSelectorAttribute": "Cluster",
+    "hoverBehavior": "default"
   },
   "informationPanel": {
-    "groupByEdgeDirection": true,
+    "groupByEdgeDirection": false,
     "imageAttribute": "Label"
   },
   "sigma": {
